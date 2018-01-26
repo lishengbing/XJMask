@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0FF7D4E115328C298B5DB653 /* XJMask.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = XJMask.podspec; path = ../XJMask.podspec; sourceTree = "<group>"; };
+		0FF7D4E115328C298B5DB653 /* XJMask.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XJMask.podspec; path = ../XJMask.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		12E4A0D5EF87C3627C304C16 /* Pods-XJMask_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XJMask_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XJMask_Tests/Pods-XJMask_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		32F06FCA1AE526A0E918B356 /* Pods_XJMask_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XJMask_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		429595C5535B398DD0C883E9 /* Pods-XJMask_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XJMask_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-XJMask_Example/Pods-XJMask_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -44,8 +44,8 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7AB9A37B69625DBF5DA084FF /* Pods_XJMask_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XJMask_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B947A34619DD98E11A2B5BD /* Pods-XJMask_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XJMask_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-XJMask_Tests/Pods-XJMask_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		A4DCABADE862E8E93BF46760 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		A801091AF6F16D7CC9256CFE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		A4DCABADE862E8E93BF46760 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A801091AF6F16D7CC9256CFE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		F8E6D253CF429309B00D96EE /* Pods-XJMask_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XJMask_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XJMask_Example/Pods-XJMask_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -523,7 +523,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -538,7 +538,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -559,7 +559,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -576,7 +576,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};

@@ -1,0 +1,6 @@
+framework module XJMask {
+  umbrella header "XJMask-umbrella.h"
+
+  export *
+  module * { export * }
+}

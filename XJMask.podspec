@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XJMask'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of XJMask.'
+  s.version          = '0.0.5'
+  s.summary          = 'XJMask.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+XJMask: 蒙版类组件
                        DESC
 
   s.homepage         = 'https://github.com/lishengbing/XJMask'

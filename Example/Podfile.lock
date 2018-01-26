@@ -1,0 +1,16 @@
+PODS:
+  - XJMask (0.0.5)
+
+DEPENDENCIES:
+  - XJMask (from `../`)
+
+EXTERNAL SOURCES:
+  XJMask:
+    :path: ../
+
+SPEC CHECKSUMS:
+  XJMask: b50d5e8a10813faf44694be0cabbac73a527b0ec
+
+PODFILE CHECKSUM: e8c4c761c5a3f794c53225f202f0cbe18cd2e4cf
+
+COCOAPODS: 1.4.0
