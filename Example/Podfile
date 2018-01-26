@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XJMask_Example' do
+  pod 'XJMask', :path => '../'
+
+  target 'XJMask_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
